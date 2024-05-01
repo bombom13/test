@@ -690,6 +690,11 @@ footer {
 
 @media screen and (max-width:575px) {
 
+    header{
+        position: fixed;
+        background-color: #fff;
+    }
+    
     .header_i {
         display: flex;
         align-items: center;
