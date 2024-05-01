@@ -448,6 +448,11 @@ main .mbox .title {
     margin-bottom: 50px;
 }
 
+video{
+    width: 1140px;
+    height: 580px;
+}
+
 /* //video */
 
 /* top_icon */
